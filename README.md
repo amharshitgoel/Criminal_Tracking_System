@@ -1,8 +1,7 @@
 # 🕵️ Criminal Tracking System
 
 A facial recognition–powered dashboard that allows law enforcement and users to search, manage, and track criminal records across jurisdictions. Built with **Streamlit**, **DeepFace**, and **OpenCV**, this lightweight web app features secure OTP-based login, role-specific access, and real-time facial matching 
- deployable on platforms like **Streamlit Cloud** https://criminaltrackingsystem-uendc4k3cyknfnoe3eiwi2.streamlit.app/
-
+ deployable on platforms like **Streamlit Cloud** https://criminaltrackingsystem.streamlit.app/
 
 ## 🔥 Features
 
