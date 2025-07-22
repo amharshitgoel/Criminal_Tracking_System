@@ -1,23 +1,7 @@
-# 🔧 Core App & UI
 streamlit
 pandas
-numpy
-
-# 📷 Face Recognition & ML
 deepface
 opencv-python
 tensorflow
 keras
-
-# 📮 Email Handling & Validation
-email-validator
-smtplib    # ⛔ Optional: built-in with Python, remove if causes error
-
-# 🔒 Security & Hashing
-passlib    # for advanced password hashing (optional)
-
-# 📁 Database
-sqlite3     # ⛔ Do NOT include — built-in with Python
-
-# 🧪 Utilities
-python-dotenv   # if using .env files for secrets
+numpy
