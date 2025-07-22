@@ -1,7 +1,10 @@
 streamlit
+deepface==0.0.79
+opencv-python-headless==4.8.0.76
+tensorflow==2.12.0
+keras==2.12.0
 pandas
-deepface
-opencv-python
-tensorflow
-keras
 numpy
+email-validator
+passlib
+python-dotenv
