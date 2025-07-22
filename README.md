@@ -1,6 +1,7 @@
 # 🕵️ Criminal Tracking System
 
 A facial recognition–powered dashboard that allows law enforcement and users to search, manage, and track criminal records across jurisdictions. Built with **Streamlit**, **DeepFace**, and **OpenCV**, this lightweight web app features secure OTP-based login, role-specific access, and real-time facial matching 
+ deployable on platforms like **Streamlit Cloud**
 
 
 ## 🔥 Features
@@ -35,3 +36,4 @@ A facial recognition–powered dashboard that allows law enforcement and users t
 bash
 git clone https://github.com/amharshitgoel/Criminal_Tracking_System
 cd Criminal_Tracking_System
+pip install -r requirements.txt
