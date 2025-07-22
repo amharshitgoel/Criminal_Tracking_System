@@ -3,4 +3,4 @@ pandas
 numpy
 Pillow
 DeepFace
-tensor flow
+tensorflow
