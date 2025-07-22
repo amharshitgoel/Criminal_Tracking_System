@@ -3,3 +3,5 @@ deepface==0.0.93
 pandas
 numpy
 Pillow
+tensorflow==2.16.0
+tf-keras==2.16.0
