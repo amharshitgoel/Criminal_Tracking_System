@@ -8,6 +8,9 @@ from permission_tools import has_permission
 from admin_dashboard import admin_dashboard_ui
 from email_utils import send_otp_email
 from database import initialize_db_core, is_user_table_empty, create_first_admin
+import os
+os.environ["TF_USE_LEGACY_KERAS"] = "1"
+
 from face_match_utils import search_by_uploaded_photo  # DeepFace-based match
 
 st.set_page_config(page_title="Criminal Tracking System", layout="wide")
